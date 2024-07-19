@@ -19,23 +19,9 @@ Download the Jupyter notebook, you will need to install Python and a suite of de
 ```
 pip install numpy pandas pillow matplotlib seaborn scikit-image 
 ```
-
-## Usage
-
-
-
 ## License
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
-## Contribute
-
-
-
-## Tests
-```
-
-```
 
 ## Contact
 
